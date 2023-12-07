@@ -27,8 +27,8 @@ To run this project, you need to have the following installed on your machine:
 
 Describe the steps required to set up the project on a local machine. Include any dependencies or prerequisites that need to be installed.
 
-1. Clone the repository: `git clone https://github.com/your-username/project-name.git`
-2. Navigate to the project directory: `cd project-name`
+1. Clone the repository: `git clone https://github.com/Saad-Elbahi/SimpleSonarTest.git`
+2. Navigate to the project directory: `cd SimpleSonarTest`
 3. Install dependencies: `mvn install` or `./gradlew build`
 
 ## Usage
@@ -46,16 +46,6 @@ This project includes SonarQube integration to analyze code quality and perform 
 2. Configure the SonarQube properties in the `sonar-project.properties` file. Include the SonarQube server URL, project key, and authentication details.
 3. Run the SonarQube analysis using the following command: `mvn sonar:sonar` or `./gradlew sonarqube`
 4. Access the SonarQube dashboard to view the analysis results and code quality metrics.
-
-## Contributing
-
-Explain how other developers can contribute to your project. Include guidelines for reporting issues, suggesting improvements, or submitting pull requests.
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a pull request in the repository.
 
 ## License
 
